@@ -74,6 +74,5 @@ cacheSolve <- function(x, ...) {
     
   }
   
-B1 <- makeCacheMatrix(B)
-cacheSolve(B1)
+
 
